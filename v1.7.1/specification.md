@@ -99,8 +99,8 @@ Tritask-sta では「今日のタスク（実行日が今日のタスク）」�
 
 | 種類名 | 無効である理由 |
 | ------ | -------------- |
-| YESTERDAY TODO  | 昨日のタスクは目に入らず、見失いやすいから |
-| YESTERDAY START | 昨日のタスクを開始することはありえないから |
+| YESTERDAY TODO  | 過去のタスクは目に入らず、見失いやすいから |
+| YESTERDAY START | 過去のタスクを開始することはありえないから |
 | TOMORROW START  | 未来のタスクを開始することはありえないから |
 | TOMORROW DONE   | 未来のタスクを終了することはありえないから |
 
@@ -114,11 +114,11 @@ Tritask-sta では、無効なタスクについては **その実行日を今�
 
 | マーク値 | タスク種別 |
 | -------- | ---- |
-| ` `(スペース) | inbo(Inbox) |
-| `1` | td(Today Done) |
-| `2` | tt(Today Todo), ts(Today Start) |
-| `3` | tom(Tomorrow Todo) |
-| `4` | ye(Yesterday Done) |
+| (スペース) | inbo(Inbox) |
+| 1 | td(Today Done) |
+| 2 | tt(Today Todo), ts(Today Start) |
+| 3 | tom(Tomorrow Todo) |
+| 4 | ye(Yesterday Done) |
 
 意図としては、まずメモ領域として使える inbo は最上位に表示させる。また today, tom, ye については、today が一番使うはずなので一番上、次いで明日以降の予定である tom、最後に過去である ye の順にしてある。
 
