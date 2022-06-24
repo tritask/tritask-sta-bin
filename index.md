@@ -1,4 +1,5 @@
 # Tritask Download
+- 22/06/24 [Download_v1.11.0](https://github.com/tritask/tritask-sta-bin/raw/master/v1.11.0/tritask-sta.zip) [readme](v1.11.0/README.md) [history](v1.11.0/CHANGELOG.md) [spec](v1.11.0/specification.md)
 - 20/06/10 [Download_v1.10.0](https://github.com/tritask/tritask-sta-bin/raw/master/v1.10.0/tritask-sta.zip) [readme](v1.10.0/README.md) [history](v1.10.0/CHANGELOG.md) [spec](v1.10.0/specification.md)
 - 20/06/07 [Download_v1.9.0](https://github.com/tritask/tritask-sta-bin/raw/master/v1.9.0/tritask-sta.zip) [readme](v1.9.0/README.md) [history](v1.9.0/CHANGELOG.md) [spec](v1.9.0/specification.md)
 - 19/12/17 [Download_v1.8.1](https://github.com/tritask/tritask-sta-bin/raw/master/v1.8.1/tritask-sta.zip) [readme](v1.8.1/README.md) [history](v1.8.1/CHANGELOG.md) [spec](v1.8.1/specification.md)
